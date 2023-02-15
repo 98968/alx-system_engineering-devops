@@ -1,0 +1,3 @@
+#!/bin/bash
+export BINARY=10100111001
+echo " BINARY=10100111001; ibase 10; /n" |bc
