@@ -1,0 +1,2 @@
+#!/bin/bash
+~/unix.com$ n=5; { while [ $((n-=1)) -ge 0 ]; do cat file; done;} > iacta
